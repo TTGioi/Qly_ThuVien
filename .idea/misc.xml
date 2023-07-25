@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/drawable/ic_edit.xml" value="0.105" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/activity_chao.xml" value="0.1" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/activity_dang_nhap.xml" value="0.1" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/dialog_dangky.xml" value="0.21927083333333333" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/dialog_doimatkhau.xml" value="0.1" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/dialog_them_phieumuon.xml" value="0.2" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/dialog_them_sach.xml" value="0.182518115942029" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/dialog_themtv.xml" value="0.19947916666666668" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/fragment_doanhthu.xml" value="0.264" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/fragment_qlloaisach.xml" value="0.264" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/fragment_qlphieumuon.xml" value="0.128" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/fragment_qlsach.xml" value="0.234375" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/fragment_qlthanhvien.xml" value="0.1" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/fragment_thongke.xml" value="0.1" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/fragment_thongketop10.xml" value="0.1" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/header_layout.xml" value="0.136" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/item_recycler_loaiscah.xml" value="0.264" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/item_recycler_sach.xml" value="0.152" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/item_recycler_top10.xml" value="0.1" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/item_recyler_tv.xml" value="0.2" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/item_rycycler_phieumuon.xml" value="0.176" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/qlsach_fragment.xml" value="0.1" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/layout/qlthanhvien_fragment.xml" value="0.1" />
+        <entry key="..\:/DAM_MOB2041/asmDAM/app/src/main/res/menu/menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
